@@ -1,3 +1,11 @@
+# 📱 KernelSung-Builder
+
+An Android app that automates custom kernel compilation for Samsung devices to always keep your builder version up to date, using **GitHub Actions** as the build engine and the repository **[WildKernels/Samsung_KernelSU_SUSFS](https://github.com/WildKernels/Samsung_KernelSU_SUSFS)** as the source code base.
+
+With it, you don't need a PC, WSL, ARM toolchain, or any Linux environment set up — all you need is a GitHub account and a phone with the app installed.
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ⚠️  IMPORTANT NOTICE  ⚠️                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -41,13 +49,7 @@
 <!--                       END OF NOTICE                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 📱 KernelSung-Builder
 
-An Android app that automates custom kernel compilation for Samsung devices to always keep your builder version up to date, using **GitHub Actions** as the build engine and the repository **[WildKernels/Samsung_KernelSU_SUSFS](https://github.com/WildKernels/Samsung_KernelSU_SUSFS)** as the source code base.
-
-With it, you don't need a PC, WSL, ARM toolchain, or any Linux environment set up — all you need is a GitHub account and a phone with the app installed.
-
----
 
 ## 🚀 What the app does
 
