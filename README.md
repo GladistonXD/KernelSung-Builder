@@ -19,14 +19,14 @@ With it, you don't need a PC, WSL, ARM toolchain, or any Linux environment set u
 >
 > ### ⚠️ **THIS APP AND THE KERNELS IT BUILDS CAN DAMAGE YOUR PHONE.**
 >
-> - 🔥 **Flashing the wrong kernel can "brick" your device** (black screen / won't boot).
+> - **Flashing the wrong kernel can "brick" your device** (black screen / won't boot).
 >
-> ### ❌ **DISCLAIMER OF LIABILITY**
+> ### **DISCLAIMER OF LIABILITY**
 >
-> **I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOUR DEVICE.**
+> - **I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOUR DEVICE.**
 >
 
-> **Use at your own risk.**
+> - **Use at your own risk.**
 >
 > ### ✅ **MANDATORY RECOMMENDATIONS BEFORE YOU CONTINUE**
 >
