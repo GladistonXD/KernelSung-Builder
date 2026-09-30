@@ -165,7 +165,7 @@ On the **Single Device** tab, fill in:
 | Field | Example | Description |
 |---|---|---|
 | **Device model** | `SM-SXXXXX` | If automatically detected |
-| **Device branch** | `SM-S928B-Oneui7` | Corresponding branch in the WildKernels repository |
+| **Device branch** | `SM-SXXXX-Oneui7` | Corresponding branch in the WildKernels repository |
 | **boot.img (optional)** | URL | Only needed if you want the `.tar.md5` for Odin |
 
 Toggle the switches on/off according to what you want in the kernel (see the section below).
